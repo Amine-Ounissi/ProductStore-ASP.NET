@@ -1,6 +1,6 @@
 # ProductStore
 
-ASP.NET Core application web. 
+ASP.NET Core web application. 
 
 ## Final Architecture
 
